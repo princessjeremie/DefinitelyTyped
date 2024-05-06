@@ -1,0 +1,48 @@
+{
+    "name": "@types/auth0-js",
+    "version": "9.21.9999",
+    "private": true,
+    "main": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/princessjeremie/DefinitelyTyped/tree/auth0-js"
+    },
+    "contributors": [
+        {
+            "name": "Adrian Chia",
+            "url": "https://github.com/adrianchia",
+            "githubUsername": "adrianchia"
+        },
+        {
+            "name": "Matt Durrant",
+            "url": "https://github.com/mdurrant",
+            "githubUsername": "mdurrant"
+        },
+        {
+            "name": "Peter Blazejewicz",
+            "url": "https://github.com/peterblazejewicz",
+            "githubUsername": "peterblazejewicz"
+        },
+        {
+            "name": "Bartosz Kotrys",
+            "url": "https://github.com/bkotrys",
+            "githubUsername": "bkotrys"
+        },
+        {
+            "name": "Mark Nelissen",
+            "url": "https://github.com/marknelissen",
+            "githubUsername": "marknelissen"
+        },
+        {
+            "name": "Tyler Lindell",
+            "url": "https://github.com/tylerlindell",
+            "githubUsername": "tylerlindell"
+        },
+        {
+            "name": "Henri Kinnunen",
+            "url": "https://github.com/hequ",
+            "githubUsername": "hequ"
+        }
+    ],
+    "license": "MIT"
+}
